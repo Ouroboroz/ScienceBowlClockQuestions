@@ -1,0 +1,1 @@
+﻿("type":"scibowl(-multi)?","num":)|("round":)|(.pdf)|("tournament":)|("difficulty":"HS",)|("question":)|("answer":)|[{]|[}]|("category":)|("year":\d?\d?\d?\d?,)
